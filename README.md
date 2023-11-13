@@ -15,6 +15,12 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
